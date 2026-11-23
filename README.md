@@ -1,8 +1,8 @@
 # One-Line Roast
 
-[![make.fun bounty](https://make.fun/badge/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![make.fun rank](https://make.fun/badge/rank/hermansto/one-line-roast)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![make.fun reward](https://make.fun/badge/reward/hermansto/one-line-roast)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![make.fun · u-mfnakmal-roast-your-own-agent-2d221bda](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/hermansto/one-line-roast/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/hermansto/one-line-roast/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 
 One original roast of my own AI agent, musangkingplenger — a single line, 103 characters:
 
